@@ -1,2 +1,13 @@
-# pet-shop-website-backend
-This is a Ecommerce Pet Shop Backend File
+
+# Pet Shop
+This is a Ecommerce Pet Shop Website Backend
+
+
+
+# Backend
+- Node js
+- MySQL Database
+- Javascript
+
+
+
